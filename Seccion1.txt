@@ -1,0 +1,61 @@
+Primera Seccion
+1.Utilice el procedimiento visto en clase para la conversión de los siguientes números
+decimales a binarios:
+
+a. 7
+
+7/2= 3 Residuo 1
+3/2= 1 Residuo 1
+1/2= 0 Residuo 1
+
+R// 111
+
+b. 45
+
+45/2= 22 Residuo 1
+22/2= 11 Residuo 0
+11/2= 5  Residuo 1
+5/2= 2   Residuo 1
+2/2= 1   Residuo 0
+1/2= 0   Residuo 1
+
+R// 101101
+
+c. 123
+
+123/2= 61 Residuo 1
+61/2= 30  Residuo 1
+30/2= 15  Residuo 0
+15/2= 7   Residuo 1
+7/2= 3    Residuo 1
+3/2= 1    Residuo 1
+1/2= 0    Residuo 1
+
+R// 1111011
+
+d. 8.75
+
+8/2= 4 Residuo 0
+4/2= 2 Residuo 0
+2/2= 1 Residuo 0
+1/2= 0 Residuo 1
+
+0.75*2= 1.5
+0.5*2=  1.0
+
+R// 1000.11
+
+e. -18
+
+18/2= 9 Residuo 0
+9/2= 4  Residuo 1
+4/2= 2  Residuo 0
+2/2= 1  Residuo 0
+1/2= 0  Residuo 1
+0001 0010
+
+
+-1110 1101
++0000 0001 /Se suma uno para obtener el complemento a dos
+R// 1110 1110
+
